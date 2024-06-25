@@ -1,0 +1,5 @@
+.env
+app.db
+response*.json
+.venv
+__pycache__
